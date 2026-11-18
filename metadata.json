@@ -1,0 +1,6 @@
+{
+  "name": "Rashifal Jyotishi Uttam Kumar",
+  "description": "Daily Rashifal, live Rahu Kaal, Hindu Panchang, and Vedic astrology consultation booking with UPI payment and WhatsApp confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
